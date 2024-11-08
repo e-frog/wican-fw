@@ -7,7 +7,7 @@
       "parameters": [
         {
           "name": "SOC",
-          "expression": "(B4*10)/22-9.09",
+          "expression": "(B4*10-200)/22",
           "unit": "%",
           "class": "battery"
         }
