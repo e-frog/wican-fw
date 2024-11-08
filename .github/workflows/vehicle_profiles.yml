@@ -31,6 +31,6 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: 'vehicle_profiles.json'
-          author_name: Jay Oswald
-          author_email: jay@oswald.net.au
+          author_name: e-frog
+          author_email: e-frog@gmx.de
           
